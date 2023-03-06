@@ -1,0 +1,15 @@
+D:\VS Proj\mertsaloff\pr2\pr2\obj\Debug\net6.0\pr2.csproj.AssemblyReference.cache
+D:\VS Proj\mertsaloff\pr2\pr2\obj\Debug\net6.0\pr2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Proj\mertsaloff\pr2\pr2\obj\Debug\net6.0\pr2.AssemblyInfoInputs.cache
+D:\VS Proj\mertsaloff\pr2\pr2\obj\Debug\net6.0\pr2.AssemblyInfo.cs
+D:\VS Proj\mertsaloff\pr2\pr2\obj\Debug\net6.0\pr2.csproj.CoreCompileInputs.cache
+D:\VS Proj\mertsaloff\pr2\pr2\bin\Debug\net6.0\pr2.exe
+D:\VS Proj\mertsaloff\pr2\pr2\bin\Debug\net6.0\pr2.deps.json
+D:\VS Proj\mertsaloff\pr2\pr2\bin\Debug\net6.0\pr2.runtimeconfig.json
+D:\VS Proj\mertsaloff\pr2\pr2\bin\Debug\net6.0\pr2.dll
+D:\VS Proj\mertsaloff\pr2\pr2\bin\Debug\net6.0\pr2.pdb
+D:\VS Proj\mertsaloff\pr2\pr2\obj\Debug\net6.0\pr2.dll
+D:\VS Proj\mertsaloff\pr2\pr2\obj\Debug\net6.0\refint\pr2.dll
+D:\VS Proj\mertsaloff\pr2\pr2\obj\Debug\net6.0\pr2.pdb
+D:\VS Proj\mertsaloff\pr2\pr2\obj\Debug\net6.0\pr2.genruntimeconfig.cache
+D:\VS Proj\mertsaloff\pr2\pr2\obj\Debug\net6.0\ref\pr2.dll
