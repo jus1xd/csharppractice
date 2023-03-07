@@ -1,0 +1,75 @@
+C:\Users\hpc\Documents\beb\proekt\4\4\bin\Debug\net6.0\4.exe
+C:\Users\hpc\Documents\beb\proekt\4\4\bin\Debug\net6.0\4.deps.json
+C:\Users\hpc\Documents\beb\proekt\4\4\bin\Debug\net6.0\4.runtimeconfig.json
+C:\Users\hpc\Documents\beb\proekt\4\4\bin\Debug\net6.0\4.dll
+C:\Users\hpc\Documents\beb\proekt\4\4\bin\Debug\net6.0\4.pdb
+C:\Users\hpc\Documents\beb\proekt\4\4\obj\Debug\net6.0\4.csproj.AssemblyReference.cache
+C:\Users\hpc\Documents\beb\proekt\4\4\obj\Debug\net6.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpc\Documents\beb\proekt\4\4\obj\Debug\net6.0\4.AssemblyInfoInputs.cache
+C:\Users\hpc\Documents\beb\proekt\4\4\obj\Debug\net6.0\4.AssemblyInfo.cs
+C:\Users\hpc\Documents\beb\proekt\4\4\obj\Debug\net6.0\4.csproj.CoreCompileInputs.cache
+C:\Users\hpc\Documents\beb\proekt\4\4\obj\Debug\net6.0\4.dll
+C:\Users\hpc\Documents\beb\proekt\4\4\obj\Debug\net6.0\refint\4.dll
+C:\Users\hpc\Documents\beb\proekt\4\4\obj\Debug\net6.0\4.pdb
+C:\Users\hpc\Documents\beb\proekt\4\4\obj\Debug\net6.0\4.genruntimeconfig.cache
+C:\Users\hpc\Documents\beb\proekt\4\4\obj\Debug\net6.0\ref\4.dll
+C:\Users\hpc\Desktop\4\4\bin\Debug\net6.0\4.exe
+C:\Users\hpc\Desktop\4\4\bin\Debug\net6.0\4.deps.json
+C:\Users\hpc\Desktop\4\4\bin\Debug\net6.0\4.runtimeconfig.json
+C:\Users\hpc\Desktop\4\4\bin\Debug\net6.0\4.dll
+C:\Users\hpc\Desktop\4\4\bin\Debug\net6.0\4.pdb
+C:\Users\hpc\Desktop\4\4\obj\Debug\net6.0\4.csproj.AssemblyReference.cache
+C:\Users\hpc\Desktop\4\4\obj\Debug\net6.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpc\Desktop\4\4\obj\Debug\net6.0\4.AssemblyInfoInputs.cache
+C:\Users\hpc\Desktop\4\4\obj\Debug\net6.0\4.AssemblyInfo.cs
+C:\Users\hpc\Desktop\4\4\obj\Debug\net6.0\4.csproj.CoreCompileInputs.cache
+C:\Users\hpc\Desktop\4\4\obj\Debug\net6.0\4.dll
+C:\Users\hpc\Desktop\4\4\obj\Debug\net6.0\refint\4.dll
+C:\Users\hpc\Desktop\4\4\obj\Debug\net6.0\4.pdb
+C:\Users\hpc\Desktop\4\4\obj\Debug\net6.0\4.genruntimeconfig.cache
+C:\Users\hpc\Desktop\4\4\obj\Debug\net6.0\ref\4.dll
+C:\Users\hpc\Desktop\1-4\4\bin\Debug\net6.0\4.exe
+C:\Users\hpc\Desktop\1-4\4\bin\Debug\net6.0\4.deps.json
+C:\Users\hpc\Desktop\1-4\4\bin\Debug\net6.0\4.runtimeconfig.json
+C:\Users\hpc\Desktop\1-4\4\bin\Debug\net6.0\4.dll
+C:\Users\hpc\Desktop\1-4\4\bin\Debug\net6.0\4.pdb
+C:\Users\hpc\Desktop\1-4\4\obj\Debug\net6.0\4.csproj.AssemblyReference.cache
+C:\Users\hpc\Desktop\1-4\4\obj\Debug\net6.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpc\Desktop\1-4\4\obj\Debug\net6.0\4.AssemblyInfoInputs.cache
+C:\Users\hpc\Desktop\1-4\4\obj\Debug\net6.0\4.AssemblyInfo.cs
+C:\Users\hpc\Desktop\1-4\4\obj\Debug\net6.0\4.csproj.CoreCompileInputs.cache
+C:\Users\hpc\Desktop\1-4\4\obj\Debug\net6.0\4.dll
+C:\Users\hpc\Desktop\1-4\4\obj\Debug\net6.0\refint\4.dll
+C:\Users\hpc\Desktop\1-4\4\obj\Debug\net6.0\4.pdb
+C:\Users\hpc\Desktop\1-4\4\obj\Debug\net6.0\4.genruntimeconfig.cache
+C:\Users\hpc\Desktop\1-4\4\obj\Debug\net6.0\ref\4.dll
+C:\УП03\PR1\1-4\4\bin\Debug\net6.0\4.exe
+C:\УП03\PR1\1-4\4\bin\Debug\net6.0\4.deps.json
+C:\УП03\PR1\1-4\4\bin\Debug\net6.0\4.runtimeconfig.json
+C:\УП03\PR1\1-4\4\bin\Debug\net6.0\4.dll
+C:\УП03\PR1\1-4\4\bin\Debug\net6.0\4.pdb
+C:\УП03\PR1\1-4\4\obj\Debug\net6.0\4.csproj.AssemblyReference.cache
+C:\УП03\PR1\1-4\4\obj\Debug\net6.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\УП03\PR1\1-4\4\obj\Debug\net6.0\4.AssemblyInfoInputs.cache
+C:\УП03\PR1\1-4\4\obj\Debug\net6.0\4.AssemblyInfo.cs
+C:\УП03\PR1\1-4\4\obj\Debug\net6.0\4.csproj.CoreCompileInputs.cache
+C:\УП03\PR1\1-4\4\obj\Debug\net6.0\4.dll
+C:\УП03\PR1\1-4\4\obj\Debug\net6.0\refint\4.dll
+C:\УП03\PR1\1-4\4\obj\Debug\net6.0\4.pdb
+C:\УП03\PR1\1-4\4\obj\Debug\net6.0\4.genruntimeconfig.cache
+C:\УП03\PR1\1-4\4\obj\Debug\net6.0\ref\4.dll
+D:\VS Proj\mertsaloff\pr1\1-4\4\bin\Debug\net6.0\4.exe
+D:\VS Proj\mertsaloff\pr1\1-4\4\bin\Debug\net6.0\4.deps.json
+D:\VS Proj\mertsaloff\pr1\1-4\4\bin\Debug\net6.0\4.runtimeconfig.json
+D:\VS Proj\mertsaloff\pr1\1-4\4\bin\Debug\net6.0\4.dll
+D:\VS Proj\mertsaloff\pr1\1-4\4\bin\Debug\net6.0\4.pdb
+D:\VS Proj\mertsaloff\pr1\1-4\4\obj\Debug\net6.0\4.csproj.AssemblyReference.cache
+D:\VS Proj\mertsaloff\pr1\1-4\4\obj\Debug\net6.0\4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Proj\mertsaloff\pr1\1-4\4\obj\Debug\net6.0\4.AssemblyInfoInputs.cache
+D:\VS Proj\mertsaloff\pr1\1-4\4\obj\Debug\net6.0\4.AssemblyInfo.cs
+D:\VS Proj\mertsaloff\pr1\1-4\4\obj\Debug\net6.0\4.csproj.CoreCompileInputs.cache
+D:\VS Proj\mertsaloff\pr1\1-4\4\obj\Debug\net6.0\4.dll
+D:\VS Proj\mertsaloff\pr1\1-4\4\obj\Debug\net6.0\refint\4.dll
+D:\VS Proj\mertsaloff\pr1\1-4\4\obj\Debug\net6.0\4.pdb
+D:\VS Proj\mertsaloff\pr1\1-4\4\obj\Debug\net6.0\4.genruntimeconfig.cache
+D:\VS Proj\mertsaloff\pr1\1-4\4\obj\Debug\net6.0\ref\4.dll
